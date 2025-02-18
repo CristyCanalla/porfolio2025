@@ -47,7 +47,7 @@ function AboutMe() {
           </P>
           <Dowload
             target="blank"
-            href="https://drive.google.com/drive/folders/1K5dN3S2ARHyn7UjvKHmhdJSv4EW8UAE7"
+            href="https://drive.google.com/file/d/12rSVJQo0VMd3LtKnQssj_PJZ4TVuUz9G/view?usp=sharing"
           >
             Download CV
           </Dowload>
